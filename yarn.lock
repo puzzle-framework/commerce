@@ -4608,10 +4608,10 @@ next-seo@^4.11.0:
   resolved "https://registry.yarnpkg.com/next-seo/-/next-seo-4.19.0.tgz#b3be79a544e420dbbf1e4fcff98dad9790f15e36"
   integrity sha512-+jgXd1UW0XKLiBMrumjPDANeV82mTHTxGZJwU6T1mlNougKpXINlDgIHkN30sM2eDXh+xXOURj99WN2Tm9K6rg==
 
-next-themes@^0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/next-themes/-/next-themes-0.0.4.tgz#fb06a9d03887201dd8fdd75fc1c84f406988f61e"
-  integrity sha512-j0bJJ6INanFsniCL31j1ZhjNaoqIFOaTeiUakbGpGxDz4+318Zp2ZfaorSjpUhzDWbXBKA3ZDE0DSUVWJ/8EsA==
+next-themes@^0.0.10:
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/next-themes/-/next-themes-0.0.10.tgz#86fe5f8a4654416f5d9157993217180174e582b8"
+  integrity sha512-YapL2GVJDooOuGYCYyCywYXRMpulBngG5Qay/HkMK9RyL9xOZ6C3vEgac2dzLWpo3uDVlk+0Qc9XgwGfLHwq/w==
 
 next-unused@^0.0.3:
   version "0.0.3"
